@@ -1,7 +1,3 @@
-아래는 주어진 Swift 파일들을 분석한 결과로 작성한 `README.md` 예시입니다. 이 프로젝트는 Swift 기초 문법과 함수형 프로그래밍, 제네릭, 클래스 상속 등을 연습하기 위한 학습용 챌린지 프로젝트로 구성되어 있습니다.
-
----
-
 # 📘 SwiftWeeklyChallenge
 
 **SwiftWeeklyChallenge**는 Swift 문법 및 프로그래밍 개념을 연습하기 위한 주간 과제 프로젝트입니다.  
